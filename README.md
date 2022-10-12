@@ -1,6 +1,12 @@
 ### Hi there 👋
-![HaeImAlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeimalan&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeimalan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=haeimalan&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=haeimalan&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=haeimalan&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
 
 
 <!--
