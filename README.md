@@ -1,11 +1,13 @@
-### Hi there 👋
+<h2 align="center">
+  My Github Stats
+</h2>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=haeimalan&show_icons=true&theme=radical&line_height=27&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=haeimalan&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=haeimalan&show_icons=true&theme=cobalt &line_height=27&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=haeimalan&theme=cobalt ">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=haeimalan&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0&count_private=true" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=haeimalan&show_icons=true&locale=en&layout=compact&theme=cobalt &line_height=0&count_private=true" />
 </p> 
 
 
